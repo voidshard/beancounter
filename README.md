@@ -72,6 +72,7 @@ For the security minded, we ask for the [scopes](https://docs.truelayer.com/) (y
 - balance
 - transactions
 - accounts
+
 We also add an ecrypted signed state that we check for on the redirect message (the encryption & signing keys are randomly generated each run).
 
 
