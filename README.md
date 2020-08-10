@@ -73,7 +73,7 @@ For the security minded, we ask for the [scopes](https://docs.truelayer.com/) (y
 - transactions
 - accounts
 
-We also add an ecrypted signed state that we check for on the redirect message (the encryption & signing keys are randomly generated each run).
+We also add an encrypted signed state that we check for on the redirect message (the encryption & signing keys are randomly generated each run).
 
 
 - By default this pulls 3 years worth of transactions from today. You can pull more or less as you wish.
